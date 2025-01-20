@@ -1,0 +1,4 @@
+Date: 20-01-2025
+
+- Learn Git from resources
+- Do the assignment
