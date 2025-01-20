@@ -1,5 +1,5 @@
 Date: 20-01-2025
 
 - Learn Git from resources
-- Do the assignment
+- Do the assignment & submit it before 12:00am
 - Take the quiz
